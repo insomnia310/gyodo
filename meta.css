@@ -1,0 +1,43 @@
+.inmate_list{
+    border: 1px solid crimson;
+    text-align: center;
+    background-color: #651111;
+}
+
+body{
+    margin: 0;
+}
+
+h1{
+    margin-bottom: 100px;
+}
+
+.gyodo{
+    color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.main_gyodo{
+    text-align: center;
+    font-size: 50px;
+    font-family :'Courier New', Courier, monospace;
+}
+
+.CH{
+    text-align: center;
+}
+
+img{
+    width: 250px; height: 250px;
+    
+}
+
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 40px;
+    border: 3px solid gray;
+    list-style:none;
+}
